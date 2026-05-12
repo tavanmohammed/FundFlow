@@ -73,6 +73,11 @@ Uses OpenAI API to analyze project data and answer financial questions such as:
 - POST `/api/ai/ask`
 <img width="1440" height="900" alt="Screenshot 2026-05-11 at 11 55 01 PM" src="https://github.com/user-attachments/assets/f2cca599-2372-415b-956d-f5333240aafb" />
 
+## Live Demo
+
+Website:
+https://fundflow-ymvf.onrender.com/
+
 
 
 
