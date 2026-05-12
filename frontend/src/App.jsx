@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./index.css";
 
-const API = "http://localhost:5001/api";
+const API = "https://fundflow-ai.onrender.com/api";
 
 function App() {
   const [dashboard, setDashboard] = useState(null);
